@@ -1,0 +1,5 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["YdtU+X4"]); }
+
+__d("StoriesModuleStoryViewerBucketTransitionTtiWwwQPLEvent.legacy",["createLegacyQPLEvent_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("createLegacyQPLEvent_DO_NOT_USE")(13238354);g["default"]=a}),98);
+__d("StoriesModuleStoryViewerThreadTransitionTtiWwwQPLEvent.legacy",["createLegacyQPLEvent_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("createLegacyQPLEvent_DO_NOT_USE")(13238356);g["default"]=a}),98);
+__d("StoriesArchiveModuleArchiveGridTtiWwwQPLEvent.legacy",["createLegacyQPLEvent_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("createLegacyQPLEvent_DO_NOT_USE")(22347782);g["default"]=a}),98);
